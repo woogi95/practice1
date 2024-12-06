@@ -1,1 +1,1 @@
-[1st Project] README 생성 완료
+[첫프로젝트] 연습
