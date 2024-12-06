@@ -1,1 +1,1 @@
-[1st Project] README 생성
+[1st Project] README 생성 완료
